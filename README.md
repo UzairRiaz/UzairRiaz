@@ -13,7 +13,7 @@
 <!-- --- -->
 <h3>Something about me<h3/>
     
-- 🔭 I am currently working on NextJs, NodeJS, docker 🐋 and  K8s ☸️ 
+- 🔭 I am currently working on NodeJS, docker 🐋 and  K8s ☸️ 
   <br>
 - 🌱 Learning is a continuous process 😊
   <br>
@@ -21,7 +21,7 @@
   <br>
 - 🥅 Goal: DevOps ♾️
   <br>
-- ⚡ Fun fact: I write Code for the company but I solve problems for myself. 
+- ⚡ Fun fact: I write Code for the company but solve problems for myself. 
   <br>
 
 
